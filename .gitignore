@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.chainlit
+.files
+yt-dlp/
+.python-version
+chainlit.md
+# custom
+custom_summ_midd.md
+linkdin-post.md
+stream.ipynb
+stream.py
