@@ -32,6 +32,7 @@ Once the source is processed, the user can continuously interact with that conte
 
 ---
 ## Tech Stack used:
+   - Python
    - Langchain agent sdk
    - Yt-dlp
    - crawl4ai
